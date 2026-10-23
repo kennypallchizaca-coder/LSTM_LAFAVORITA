@@ -1,0 +1,5 @@
+*.md text eol=lf
+*.ipynb text eol=lf
+requirements.txt text eol=lf
+Datasets/*.csv -text
+*.pptx -text
